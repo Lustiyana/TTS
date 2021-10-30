@@ -1,0 +1,35 @@
+table{
+	text-align: center;
+} 
+td{
+	width: 40px;
+	height: 40px;
+}
+td input{
+	width: 40px;
+	height: 40px;
+	text-align: center;
+	font-size: 14px;
+	text-transform: uppercase;
+}
+table input[disabled]{
+	background-color: green; '!important'
+	color: white;
+}
+.block{
+	background-color: blue;
+}
+h1{
+	text-align: center;
+}
+.btn-link{
+	text-align: left;
+	text-decoration: none;
+	color: black;
+}
+.question{
+	border: 1px solid #555;
+	height: 590px;
+	overflow: auto; 
+	width: 460px;"
+}
